@@ -1,0 +1,7 @@
+Project Notes
+-------------
+Initial project setup.
+Learning Git workflow.
+
+Feature Update:
+Added new functionality planning.
